@@ -1,5 +1,4 @@
-// Criação da classe cofre, com método para adicionar moeda no cofre, onde as moedas inseridas serão registradas no List Moeda, criado na classe Moeda.
-
+// Criação da classe cofre, com método para adicionar moeda no cofre, onde as moedas inseridas serão registradas no List Moeda.
 using System;
 using System.Collections.Generic;
 using System.Linq;
